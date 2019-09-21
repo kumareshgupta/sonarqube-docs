@@ -1,0 +1,8 @@
+
+
+Background initialization failed. Stopping SonarQube
+org.elasticsearch.cluster.block.ClusterBlockException: blocked by: [FORBIDDEN/12/index read-only / allow delete (api)];
+
+Solution :- Needs more hard disk space 
+          Remove data\es6 folder
+          start sonar 
