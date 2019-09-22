@@ -6,3 +6,8 @@ org.elasticsearch.cluster.block.ClusterBlockException: blocked by: [FORBIDDEN/12
 Solution :- Needs more hard disk space 
           Remove data\es6 folder
           start sonar 
+          
+          
+          ANALYSIS SUCCESSFUL, you can browse http://localhost:9000/dashboard?id=com.manipal%3Auser-service
+[INFO] Note that you will be able to access the updated dashboard once the server has processed the submitted analysis report
+[INFO] More about the report processing at http://localhost:9000/api/ce/task?id=AW1VCTnVp7n0PJTh_C8Q
